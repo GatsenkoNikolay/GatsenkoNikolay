@@ -2,16 +2,20 @@
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/horesface)</a>
-  <a href="https://www.linkedin.com/in/nikolay-gatsenko-864333340">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad" alt="LinkedIn" style="height:28px;">
+Занимаюсь аналитикой данных 📈
+
+Готов к сотрудничеству 🤝
+
+Мои проекты 👇:
 </a>
 
 </div>
+Контакты:
 
-* Занимаюсь аналитикой данных 📈
-* Готов к сотрудничеству 🤝
-* Мои проекты 👇:
+<a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/horesface)</a>
+<a href="https://www.linkedin.com/in/nikolay-gatsenko-864333340">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad" alt="LinkedIn" style="height:28px;">
+
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
