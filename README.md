@@ -15,6 +15,7 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
+|Анализ Unit-экономики подписочного приложения (__[github](https://github.com/GatsenkoNikolay/unit_economics)__)| Расчёт LTV пользователя при помощи когортного анализа. Прогноз LTV на полгода. Визуализация. Расчёт операционного ROMI на 4 и 26 недель. |pandas, numpy, matplotlib, scipy.optimize|
 |Анализ результатов A/B-тестирования  (__[github](https://github.com/GatsenkoNikolay/AB_test_project)__)|Выбор, расчет продуктовых метрик (CR, ARPPU и ARPU.). Проверка гипотез, проведение стат-тестов (Z-тест, Тест Медиан, Bootstrap, Тест Левене). Реализация функций для автоматической подгрузки доп. информации и построении графиков. |pandas, numpy, seaborn, matplotlib, scipy.stats|
 |E-commerce  (__[github](https://github.com/GatsenkoNikolay/E-commerce_project)__)|Когортный анализ, retention, RFM-сегментирование, анализ совершённых заказов. |pandas, numpy|
 |SQL Metrics  (__[github](https://github.com/GatsenkoNikolay/SQL_metrics)__)|Расчёт метрик(ARPU, ARPAU, CR в покупку, СR активного пользователя в покупку и т.д.) одним запросом при помощи CTE |PostgreSQL, Redash|
