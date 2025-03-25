@@ -1,12 +1,12 @@
-### <p align="center">Привет, меня зовут Николай! 👋</p>
+### <p align="center">Hello, my name is Nikolay! 👋</p>
 
 <div align="center">
 
-Занимаюсь аналитикой данных 📈
+I work in data analytics 📈
 
-Готов к сотрудничеству 🤝
+Ready to collaborate 🤝
 
-Мои проекты 👇:
+My projects 👇:
 </a>
 
 </div>
@@ -17,13 +17,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad" alt="LinkedIn" style="height:28px;">
 
 
-|Название проекта| Описание проекта| Стек|
+|Project name| Project description| Tech stack|
 |----------------|-----------------|-----|
-|Анализ Unit-экономики подписочного приложения (__[github](https://github.com/GatsenkoNikolay/unit_economics)__)| Расчёт LTV пользователя при помощи когортного анализа. Прогноз LTV на полгода. Визуализация. Расчёт операционного ROMI на 4 и 26 недель. |pandas, numpy, matplotlib, scipy.optimize|
-|Анализ результатов A/B-тестирования  (__[github](https://github.com/GatsenkoNikolay/AB_test_project)__)|Выбор, расчет продуктовых метрик (CR, ARPPU и ARPU.). Проверка гипотез, проведение стат-тестов (Z-тест, Тест Медиан, Bootstrap, Тест Левене). Реализация функций для автоматической подгрузки доп. информации и построении графиков. |pandas, numpy, seaborn, matplotlib, scipy.stats|
-|E-commerce  (__[github](https://github.com/GatsenkoNikolay/E-commerce_project)__)|Когортный анализ, retention, RFM-сегментирование, анализ совершённых заказов. |pandas, numpy|
-|SQL Metrics  (__[github](https://github.com/GatsenkoNikolay/SQL_metrics)__)|Расчёт метрик(ARPU, ARPAU, CR в покупку, СR активного пользователя в покупку и т.д.) одним запросом при помощи CTE |PostgreSQL, Redash|
-|Hospitality Overview  (__[tableau](https://public.tableau.com/app/profile/nikolay.gatsenko/viz/_17333919378070/Dashboard1?publish=yes)__)| Аналитический дашборд для сети отелей. Отображены основные показатели с фильтрами по дате, отелю, каналу бронирования и типу номера (__[readme](https://github.com/GatsenkoNikolay/hospitality_overview)__)|tableau, dashboard canvas|
+|Analysis of the unit economics of a subscription-based application (__[github](https://github.com/GatsenkoNikolay/unit_economics)__)| Calculation of user LTV using cohort analysis. Forecasting LTV for the next six months. Visualization. Calculation of operational ROMI for 4 and 26 weeks. |pandas, numpy, matplotlib, scipy.optimize|
+|Analysis of A/B testing results (__[github](https://github.com/GatsenkoNikolay/AB_test_project)__)|Selection and calculation of key product metrics (CR, ARPPU, and ARPU). Hypothesis testing and performing statistical tests (Z-test, Median Test, Bootstrap, Levene’s Test). Implementation of functions for automatic loading of additional data and graph generation. |pandas, numpy, seaborn, matplotlib, scipy.stats|
+|E-commerce  (__[github](https://github.com/GatsenkoNikolay/E-commerce_project)__)|Cohort analysis, retention, RFM segmentation, order analysis. |pandas, numpy|
+|SQL Metrics  (__[github](https://github.com/GatsenkoNikolay/SQL_metrics)__)|Calculation of metrics (ARPU, ARPAU, purchase conversion rate, active user purchase conversion rate, etc.) |PostgreSQL, Redash|
+|Hospitality Overview  (__[tableau](https://public.tableau.com/app/profile/nikolay.gatsenko/viz/_17333919378070/Dashboard1?publish=yes)__)| Analytical dashboard for a hotel chain. Displays key metrics with filters for date, hotel, booking channel, and room type. (__[readme](https://github.com/GatsenkoNikolay/hospitality_overview)__)|tableau, dashboard canvas|
 
 <hr>
 
