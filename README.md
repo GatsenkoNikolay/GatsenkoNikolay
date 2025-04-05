@@ -10,7 +10,7 @@ My projects 👇:
 </a>
 
 </div>
-Контакты:
+Contact me:
 
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/horesface)</a>
 <a href="https://www.linkedin.com/in/nikolay-gatsenko-864333340">
